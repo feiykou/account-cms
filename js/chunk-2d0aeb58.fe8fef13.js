@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0aeb58"],{"0ae6":function(n,a,e){"use strict";e.r(a);var w={1:"一天",2:"一周",3:"一个月",4:"一年"};a["default"]=w}}]);
